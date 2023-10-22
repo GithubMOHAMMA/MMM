@@ -1,4 +1,4 @@
-git clone https://github.com/GithubMOHAMMA/MMM.git
+git clone gh repo clone GithubMOHAMMA/MMM
 
 ls
 
